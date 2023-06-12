@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animes", "animes\animes.csproj", "{C7B2D311-E9D5-4176-B3A2-48930A735B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B2D311-E9D5-4176-B3A2-48930A735B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B2D311-E9D5-4176-B3A2-48930A735B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B2D311-E9D5-4176-B3A2-48930A735B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B2D311-E9D5-4176-B3A2-48930A735B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BACFD6-C2D9-455A-8DA4-C053AE91A522}
+	EndGlobalSection
+EndGlobal
